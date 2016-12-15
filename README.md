@@ -1,2 +1,2 @@
 # devicter.ru
-Smart Home DIY
+DIY Smart Home
